@@ -47,4 +47,6 @@ function accessElementInArray(array, index) {
   
 }
 
-destructivelyRemoveElementFromEndOfArray
+function destructivelyRemoveElementFromEndOfArray(array) {
+  
+}

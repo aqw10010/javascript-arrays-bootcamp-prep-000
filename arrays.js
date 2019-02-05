@@ -39,4 +39,6 @@ function removeElementFromEndOfArray(array) {
   
 }
 
-function removeElementFromBeginningOfArray(array) 
+function removeElementFromBeginningOfArray(array) {
+  
+}

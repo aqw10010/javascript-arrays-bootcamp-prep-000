@@ -31,7 +31,7 @@ function destructivelyRemoveElementFromBeginningOfArray() {
 }
 
 function destructivelyAddElementToEndOfArray(array, element) {
-  
+  arrat
 }
 
 function removeElementFromEndOfArray(array) {

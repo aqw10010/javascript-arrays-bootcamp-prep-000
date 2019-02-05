@@ -17,9 +17,9 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
-  chocolateBars.unshift(element)
+  array.unshift(element)
   
-  return chocolateBars
+  return array
 
 }
 
@@ -32,6 +32,6 @@ function destructivelyRemoveElementFromBeginningOfArray() {
 }
 
 function removeElementFromEndOfArray(array) {
-  chocolateBars.slice(1,3)
+  array.slice(1,3)
   
 }

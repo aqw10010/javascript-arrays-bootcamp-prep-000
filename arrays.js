@@ -31,7 +31,7 @@ function destructivelyRemoveElementFromBeginningOfArray() {
 }
 
 function destructivelyAddElementToEndOfArray(array, element) {
-  array.push(element)
+  chocolateBars.push(element)
 }
 
 function removeElementFromEndOfArray(array) {

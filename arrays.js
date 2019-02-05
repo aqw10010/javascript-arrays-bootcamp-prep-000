@@ -46,3 +46,5 @@ function removeElementFromBeginningOfArray(array) {
 function accessElementInArray(array, index) {
   
 }
+
+destructivelyRemoveElementFromEndOfArray

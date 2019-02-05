@@ -19,7 +19,7 @@ function addElementToBeginningOfArray(array, element) {
 function destructivelyAddElementToBeginningOfArray(array, element) {
   entrepreneurs.unshift(element)
   
-  entrepreneurs array
+  return entrepreneurs 
 
 }
 

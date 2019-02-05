@@ -11,14 +11,14 @@ console.log(entrepreneurs[2] + bio);
 entrepreneurs[9];
 
 function addElementToBeginningOfArray(array, element) {
-    chocolateBars.unshift(element)
+    array.unshift(element)
   
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
-  chocolateBars.unshift(element)
+  array.unshift(element)
   
-  return chocolateBars
+  return array
 
 }
 

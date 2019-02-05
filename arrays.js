@@ -28,7 +28,7 @@ function addElementToEndOfArray(array, element) {
 }
 
 function destructivelyRemoveElementFromBeginningOfArray() {
-  
+  chocolateBars.pop()
 }
 
 function removeElementFromEndOfArray(array) {

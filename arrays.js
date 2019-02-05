@@ -11,8 +11,8 @@ console.log(entrepreneurs[2] + bio);
 entrepreneurs[9];
 
 function addElementToBeginningOfArray(array, element) {
-    array.unshift(0)
-    return array.unshift(0)
+    entrepreneurs.unshift(0)
+    return entrepreneurs.unshift(0)
     
 }
 

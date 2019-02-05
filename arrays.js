@@ -30,6 +30,10 @@ function destructivelyRemoveElementFromBeginningOfArray() {
   chocolateBars.pop()
 }
 
+function destructivelyAddElementToEndOfArray(array, element) {
+  
+}
+
 function removeElementFromEndOfArray(array) {
   array.slice()
   

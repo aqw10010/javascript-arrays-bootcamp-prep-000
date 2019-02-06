@@ -22,7 +22,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 }
 
 function addElementToEndOfArray(array, element) {
-    array.slice(element)
+    return [aray...,element]
     
   
 }

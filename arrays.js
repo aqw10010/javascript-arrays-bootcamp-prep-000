@@ -12,7 +12,7 @@ entrepreneurs[9];
 
 
 function addElementToBeginningOfArray(array, element) {
-return [...array, ]
+return [element,...array]
 }
 
 

@@ -12,8 +12,8 @@ entrepreneurs[9];
 
 
 function addElementToBeginningOfArray(array, element) {
-    entrepreneurs.slice(element)
-    return entrepreneurs.slice(element)
+    entrepreneurs.slice(0,2)
+    return entrepreneurs.slice(0,2)
 }
 
 

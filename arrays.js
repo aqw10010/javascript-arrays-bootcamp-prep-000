@@ -23,7 +23,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 }
 
 function addElementToEndOfArray(array, element) {
-    chocolateBars.slice(element)
+    chocolateBars.slice(0,3)
   
 }
 

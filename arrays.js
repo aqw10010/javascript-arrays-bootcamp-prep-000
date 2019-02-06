@@ -24,6 +24,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 
 function addElementToEndOfArray(array, element) {
     chocolateBars.slice(element)
+  
 }
 
 function destructivelyRemoveElementFromBeginningOfArray() {

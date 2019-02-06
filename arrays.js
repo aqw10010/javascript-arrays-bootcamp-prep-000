@@ -23,8 +23,8 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 }
 
 function addElementToEndOfArray(array, element) {
-    chocolateBars.slice(element)
-    return chocolateBars.slice(element)
+    array.slice(element)
+    
   
 }
 

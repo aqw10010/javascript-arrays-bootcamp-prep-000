@@ -29,10 +29,12 @@ function addElementToEndOfArray(array, element) {
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.pop()
+  return array 
 }
 
 function destructivelyAddElementToEndOfArray(array, element) {
   array.push(element)
+  return array
 }
 
 

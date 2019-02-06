@@ -13,7 +13,7 @@ entrepreneurs[9];
 
 function addElementToBeginningOfArray(array, element) {
     entrepreneurs.slice(element)
-    return entrepreneurs.unshift(element)
+    return entrepreneurs.slice(element)
 }
 
 

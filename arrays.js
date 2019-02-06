@@ -12,8 +12,8 @@ entrepreneurs[9];
 
 
 function addElementToBeginningOfArray(array, element) {
-    en.unshift(element)
-    return array.unshift(element)
+    entrepreneurs.unshift(element)
+    return entrepreneurs.unshift(element)
 }
 
 

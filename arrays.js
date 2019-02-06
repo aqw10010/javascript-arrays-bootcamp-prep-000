@@ -50,6 +50,7 @@ function removeElementFromEndOfArray(array) {
 
 function removeElementFromBeginningOfArray(array) {
   array.slice()
+  return array.slice()
 }
 
 function accessElementInArray(array, index) {
